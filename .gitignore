@@ -1,0 +1,4 @@
+chats/
+node_modules/
+output.csv
+userData.jsonc
